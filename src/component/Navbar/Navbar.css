@@ -1,0 +1,53 @@
+.container {
+    height: 350px;
+    width: 95%;
+    position: relative;
+    margin: 2rem auto;
+}
+
+.container:before {
+    content: '';
+    background: url("../assetes/aquarium1.jpg") no-repeat center center/cover;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    border-radius: 20px;
+}
+
+.container .content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.container .content h1{
+    color: rgba(0, 255, 0, .8);
+    font-family: cursive;
+    font-size: 6rem;
+    margin: 2% 2%;
+}
+
+
+@media screen and (max-width: 740px){
+
+    .container {
+        height: 200px;
+    }
+
+    .container .content h1{
+        font-size: 3rem;
+    }
+
+}
+
+
+
+
+
+
+
