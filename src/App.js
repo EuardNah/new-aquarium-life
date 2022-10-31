@@ -1,15 +1,21 @@
 import React from "react";
-import Navbar from "./component/Navbar/Navbar";
-import Search from "./component/Search/Search";
-import Main from "./component/Main/Main";
-import Footer from "./component/Footer/Footer";
+import {Route, Routes} from "react-router-dom";
+import Home from "./routes/Home";
+import Fishes from "./routes/Fishes";
+import Plants from "./routes/Plants";
+import Shrimps from "./routes/Shrimps";
+import UnusualFishes from "./routes/UnusualFishes";
 
 function App() {
   return (
     <>
-        <Navbar/>
-        <Main/>
-        <Footer/>
+        <Routes>
+            <Route path='/' element={<Home/>} />
+            <Route path='/fishes' element={<Fishes/>} />
+            <Route path='/plants' element={<Plants/>} />
+            <Route path='/shrimps' element={<Shrimps/>} />
+            <Route path='/unusual' element={<UnusualFishes/>} />
+        </Routes>
     </>
   );
 }

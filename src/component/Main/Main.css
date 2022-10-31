@@ -1,8 +1,14 @@
-.main-container{
+.main-container {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
     align-content: center;
+
+}
+.classLink {
+    text-decoration: none;
+    width: 35%;
+
 
 }
 
@@ -27,6 +33,7 @@
 
 .main-content h2 {
     display: flex;
+    text-transform: uppercase;
     font-size: 13px;
     color: rgba(0, 255, 0, .8);
     font-family: cursive;
@@ -45,6 +52,11 @@
         flex-direction: column;
         width: 80%;
         margin: 10%;
+    }
+    .classLink {
+        text-decoration: none;
+        width: 65%;
+
     }
 }
 
