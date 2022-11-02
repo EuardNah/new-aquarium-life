@@ -6,7 +6,7 @@ const Search = () => {
     return (
         <>
             <div className='search' >
-                <input type="text" placeholder='Entear Text' />
+                <input type="text" placeholder='Search...' />
                 <button type='submit' ><AiOutlineSearch className='icon' /></button>
             </div>
         </>

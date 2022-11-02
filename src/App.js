@@ -1,10 +1,10 @@
 import React from "react";
 import {Route, Routes} from "react-router-dom";
-import Home from "./routes/Home";
-import Fishes from "./routes/Fishes";
-import Plants from "./routes/Plants";
-import Shrimps from "./routes/Shrimps";
-import UnusualFishes from "./routes/UnusualFishes";
+import Home from "./pages/Home";
+import Fishes from "./pages/Fishes";
+import Plants from "./pages/Plants";
+import Shrimps from "./pages/Shrimps";
+import UnusualFishes from "./pages/UnusualFishes";
 
 function App() {
   return (

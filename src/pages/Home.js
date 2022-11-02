@@ -1,8 +1,8 @@
 import React from 'react';
-import Navbar from "../component/Navbar/Navbar";
-import Main from "../component/Main/Main";
-import Footer from "../component/Footer/Footer";
-import aquariumPets from "../aquariumData/aquariumPets";
+import Navbar from "../components/Navbar/Navbar";
+import Main from "../components/Main/Main";
+import Footer from "../components/Footer/Footer";
+import aquariumPets from "../data/aquariumPets";
 
 const Home = () => {
     const _aquarium_pits = aquariumPets();

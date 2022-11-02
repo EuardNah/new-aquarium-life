@@ -8,11 +8,13 @@ const Main = ({aquarium_pits}) => {
         <>
             <div className='main-container'>
                 {
-                    aquarium_pits.map((pit) => {
+                    aquarium_pits.map((pet) => {
+                        const {id, img, type} = pet;
                         return(
-                            <Link className='classLink' to={`/${pit.type}`}>
-                                <MainItem key={pit.id} PitsImg={pit.img} PitsTitle={pit.type} />
+                            <Link key={id} className='classLink' to={`/${type}`}>
+                                <MainItem key={id} petsImg={img} petsTitle={type} />
                             </Link>
+
                         )
                     })
                 }
