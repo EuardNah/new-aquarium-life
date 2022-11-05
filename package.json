@@ -2,7 +2,7 @@
   "name": "aquarium-life",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://euardnah.github.io/new-aquarium-life/",
+  "homepage": "https://EuardNah.github.io/new-aquarium-life",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
