@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/new-aquarium-life/static/css/main.66440b8b.css",
+    "main.js": "/new-aquarium-life/static/js/main.571f84cd.js",
+    "static/media/footer-aqarium.jpg": "/new-aquarium-life/static/media/footer-aqarium.2e7f05e1f53a866da511.jpg",
+    "static/media/aquarium1.jpg": "/new-aquarium-life/static/media/aquarium1.b54c57fa6892cfb07f0f.jpg",
+    "static/media/goldfish1.jpg": "/new-aquarium-life/static/media/goldfish1.ed93e104da675255d284.jpg",
+    "static/media/fighting-fish1.jpg": "/new-aquarium-life/static/media/fighting-fish1.3f8ff640bfcecdecbd52.jpg",
+    "static/media/28-3.Caridina-multidentata.jpg": "/new-aquarium-life/static/media/28-3.Caridina-multidentata.8a192a0ead290b027667.jpg",
+    "static/media/07-3.Anubias-nana.jpg": "/new-aquarium-life/static/media/07-3.Anubias-nana.eadf1dcd2c931ceb496c.jpg",
+    "static/media/Anubias-nana.jpg": "/new-aquarium-life/static/media/Anubias-nana.eadf1dcd2c931ceb496c.jpg",
+    "static/media/01-3.Alternanthera-liliacina.jpg": "/new-aquarium-life/static/media/01-3.Alternanthera-liliacina.81aa20f0380f9f8dd391.jpg",
+    "static/media/01-1.Guppies.jpg": "/new-aquarium-life/static/media/01-1.Guppies.a7c9b05b00f676e4f5c2.jpg",
+    "static/media/30-2.discus-fish.jpg": "/new-aquarium-life/static/media/30-2.discus-fish.9f7cad0534045135dfc9.jpg",
+    "static/media/Neocaridina-Blue.jpg": "/new-aquarium-life/static/media/Neocaridina-Blue.b02a416742b314cb8572.jpg",
+    "static/media/01-1.crystalwort.jpg": "/new-aquarium-life/static/media/01-1.crystalwort.231324e069846558b21e.jpg",
+    "static/media/05-1-Apteronotus-albifrons.jpg": "/new-aquarium-life/static/media/05-1-Apteronotus-albifrons.0ad29a701fc2c352b37f.jpg",
+    "static/media/Elephant-Nose-Fish-800x445.jpg": "/new-aquarium-life/static/media/Elephant-Nose-Fish-800x445.215d059355735373f5cd.jpg",
+    "static/media/20-3-Macrognathus-aculeatus.jpg": "/new-aquarium-life/static/media/20-3-Macrognathus-aculeatus.e4c2ff8b8821ae13f9d3.jpg",
+    "static/media/67954.jpg": "/new-aquarium-life/static/media/67954.898e7b9e58691cd206a3.jpg",
+    "static/media/Atyopsis-moluccensis20.jpg": "/new-aquarium-life/static/media/Atyopsis-moluccensis20.6349698e490be2d8ae9f.jpg",
+    "static/media/grass_shrimp_8.jpg": "/new-aquarium-life/static/media/grass_shrimp_8.cc84e6f031ead328d47a.jpg",
+    "static/media/gjfx1.jpg": "/new-aquarium-life/static/media/gjfx1.2afd365aa21928b9f482.jpg",
+    "static/media/TIGOVI BARBUS1.jpg": "/new-aquarium-life/static/media/TIGOVI BARBUS1.7e331b244df5b1fa82c3.jpg",
+    "static/media/Corydoras-melini-ST-8.jpg": "/new-aquarium-life/static/media/Corydoras-melini-ST-8.426ac9e01a9994710cf7.jpg",
+    "static/media/rope-fish-Erpetoichthys-calabricus.jpg": "/new-aquarium-life/static/media/rope-fish-Erpetoichthys-calabricus.884a417c070a6d69e68c.jpg",
+    "static/media/marmorskrabbe1.jpg": "/new-aquarium-life/static/media/marmorskrabbe1.b97e8738f8f057d42e2b.jpg",
+    "static/media/2-1.jpg": "/new-aquarium-life/static/media/2-1.947ddc0c32ccc2efb2b5.jpg",
+    "static/media/6hfd-300x200.jpg": "/new-aquarium-life/static/media/6hfd-300x200.5124a5174ce19c047c96.jpg",
+    "index.html": "/new-aquarium-life/index.html",
+    "main.66440b8b.css.map": "/new-aquarium-life/static/css/main.66440b8b.css.map",
+    "main.571f84cd.js.map": "/new-aquarium-life/static/js/main.571f84cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66440b8b.css",
+    "static/js/main.571f84cd.js"
+  ]
+}
