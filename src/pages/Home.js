@@ -6,6 +6,7 @@ import aquariumPets from "../data/aquariumPets";
 
 const Home = () => {
     const _aquarium_pits = aquariumPets();
+
     return (
         <>
             <Navbar/>

@@ -9,6 +9,7 @@ import UnusualFishes from "./pages/UnusualFishes";
 function App() {
   return (
     <>
+
         <Routes>
             <Route path='/' element={<Home/>} />
             <Route path='/fishes' element={<Fishes/>} />

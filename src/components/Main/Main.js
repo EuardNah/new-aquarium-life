@@ -5,7 +5,7 @@ import MainItem from "./MainItem";
 
 const Main = ({aquarium_pits}) => {
     return (
-        <>
+
             <div className='main-container'>
                 {
                     aquarium_pits.map((pet) => {
@@ -20,9 +20,6 @@ const Main = ({aquarium_pits}) => {
                 }
             </div>
 
-
-
-        </>
 
     );
 };

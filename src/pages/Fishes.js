@@ -7,6 +7,7 @@ import Search from "../components/Search/Search";
 
 const Fishes = () => {
     const _aquarium_pits = aquariumPets();
+    console.log(_aquarium_pits)
     return (
         <>
             <Navbar/>
